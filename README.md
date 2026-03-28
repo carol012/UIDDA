@@ -1,6 +1,6 @@
 # UIDDA
 
-A drug-disease prediction model.
+A drug-disease prediction framework.
 
 ## Environment
 
